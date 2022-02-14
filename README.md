@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ClaraZabban
 - 👀 I’m interested in surgical robotics, GI simulators and lower limb prosthesis
 - 👩‍🎓 Bachelor Degree with honors in Biomedical Engineering at University of Pisa (2019)
+- 👩‍ Master Degree with honors in Bionics Engineering at Scuola Superiore Sant'Anna (2021)
 - 📫 How to reach me: clara.zabban@gmail.com clara.zabban@santannapisa.it
 
 <!---
